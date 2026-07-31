@@ -27,3 +27,17 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
+
+### Linting
+
+This project uses ESLint for linting. To run the linter, use the following commands:
+
+```bash
+# Run the linter
+npm run lint
+
+# Automatically fix linting errors
+npm run lint:fix
+```
+
+The ESLint configuration for this project uses [@antfu/eslint-config](https://github.com/antfu/eslint-config) with applicable overrides set.
