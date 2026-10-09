@@ -6,6 +6,8 @@ A fullstack application built with Nuxt that allows users to keep track of their
 
 Install dependencies:
 
+- Node.js (v22 - v24)
+
 ```bash
 npm install
 ```
@@ -41,3 +43,7 @@ npm run lint:fix
 ```
 
 The ESLint configuration for this project uses [@antfu/eslint-config](https://github.com/antfu/eslint-config) with applicable overrides set.
+
+https://www.youtube.com/watch?v=DK93dqmJJYg&t=56s
+
+continue at 41:48
